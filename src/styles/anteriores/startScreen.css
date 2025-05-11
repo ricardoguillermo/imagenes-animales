@@ -1,0 +1,56 @@
+.start-container {
+  text-align: center;
+  font-family: sans-serif;
+  padding: 2rem;
+}
+
+.input-section {
+  margin-bottom: 1rem;
+}
+
+.input-section > button {
+  padding: 0.5rem;
+  background-color: aquamarine;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.tarjetas-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+.tarjeta {
+  width: 120px;
+  height: 100px;
+  border-radius: 10px;
+  border-color: rgb(16, 9, 1);
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-weight: bold;
+  border: 3px solid;
+  transition: 0.3s;
+}
+
+.tarjeta:hover {
+  background-color: #503939;
+}
+
+.seleccionado {
+  border-color: #00aaff;
+  background-color: #ccf3ff;
+}
+
+/* button {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: #00aaff;
+} */

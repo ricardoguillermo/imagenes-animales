@@ -1,0 +1,23 @@
+.score-container {
+  text-align: center;
+  font-family: sans-serif;
+  padding: 2rem;
+}
+.score-container table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+.score-container th,
+.score-container td {
+  border: 1px solid #ccc;
+  padding: 0.5rem 1rem;
+}
+.score-container th {
+  background-color: #f0f0f0;
+}
+.botones button {
+  margin: 1rem 0.5rem;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+}

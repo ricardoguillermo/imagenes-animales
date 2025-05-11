@@ -1,0 +1,32 @@
+.score-container {
+  background-image: url("/img/background/fondo1.jpg");
+  backdrop-filter: blur(10px); /* Efecto de desenfoque */
+
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  padding: 2rem;
+  text-align: center;
+  font-family: sans-serif;
+  padding: 2rem;
+}
+.score-container table {
+  margin: 1rem auto;
+  border-collapse: collapse;
+  background-color: rgb(210, 17, 59);
+}
+.score-container th {
+  color: black;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 0.5rem 1rem;
+}
+
+.score-container td {
+  background-color: #f5f1f1;
+}
+button {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  margin-top: 1rem;
+}

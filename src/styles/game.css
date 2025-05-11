@@ -1,0 +1,61 @@
+.game-container {
+  background-image: url("/img/background/fondo_2.jpg");
+  backdrop-filter: blur(10px); /* Efecto de desenfoque */
+
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  padding: 2rem;
+  text-align: center;
+  font-family: sans-serif;
+  padding: 1rem;
+}
+/* .opciones {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.opciones img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  cursor: pointer;
+  border: 3px solid transparent;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+.opciones img:hover {
+  border-color: #00f;
+} */
+.tiempo {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}
+.mensaje {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+
+.opciones {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 columnas */
+  gap: 10px; /* Espaciado entre imágenes */
+  justify-items: center; /* Centrar imágenes horizontalmente */
+  margin-top: 20px;
+}
+
+.opciones img {
+  width: 150px; /* Ajusta el tamaño de las imágenes */
+  height: 150px;
+  object-fit: cover;
+  cursor: pointer;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  transition: transform 0.2s, border-color 0.2s;
+}
+
+.opciones img:hover {
+  transform: scale(1.1); /* Efecto de zoom al pasar el mouse */
+  border-color: #007bff; /* Cambia el color del borde al pasar el mouse */
+}

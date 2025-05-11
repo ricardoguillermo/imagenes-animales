@@ -1,0 +1,94 @@
+[
+  {
+    "nombre": "Perro",
+    "imagen": "/img/perro.jpg"
+  },
+  {
+    "nombre": "Gato",
+    "imagen": "/img/gato.jpg"
+  },
+  {
+    "nombre": "Elefante",
+    "imagen": "/img/elefante.jpg"
+  },
+  {
+    "nombre": "León",
+    "imagen": "/img/leon.jpg"
+  },
+  {
+    "nombre": "Tigre",
+    "imagen": "/img/tigre.jpg"
+  },
+  {
+    "nombre": "Zorro",
+    "imagen": "/img/zorro.jpg"
+  },
+  {
+    "nombre": "Aguila",
+    "imagen": "/img/aguila.jpg"
+  },
+  {
+    "nombre": "Ballena",
+    "imagen": "/img/ballena.jpg"
+  },
+  {
+    "nombre": "Cabra",
+    "imagen": "/img/cabra.jpg"
+  },
+  {
+    "nombre": "Conejo",
+    "imagen": "/img/conejo.jpg"
+  },
+  {
+    "nombre": "Delfín",
+    "imagen": "/img/delfin.jpg"
+  },
+  {
+    "nombre": "Liebre",
+    "imagen": "/img/liebre.jpg"
+  },
+  {
+    "nombre": "Loro",
+    "imagen": "/img/loro.jpg"
+  },
+  {
+    "nombre": "Oveja",
+    "imagen": "/img/oveja.jpg"
+  },
+  {
+    "nombre": "Palomas",
+    "imagen": "/img/palomas.jpg"
+  },
+  {
+    "nombre": "Pato",
+    "imagen": "/img/pato.jpg"
+  },
+  {
+    "nombre": "Pavo",
+    "imagen": "/img/pavo.jpg"
+  },
+  {
+    "nombre": "Perdiz",
+    "imagen": "/img/perdiz.jpg"
+  },
+  {
+    "nombre": "Ratón",
+    "imagen": "/img/raton.jpg"
+  },
+  {
+    "nombre": "Serpiente",
+    "imagen": "/img/serpiente.jpg"
+  },
+  {
+    "nombre": "Tiburón",
+    "imagen": "/img/tiburon.jpg"
+  },
+  {
+    "nombre": "Toro",
+    "imagen": "/img/toro.jpg"
+  },
+  {
+    "nombre": "Vaca",
+    "imagen": "/img/vaca.jpg"
+  }
+]
