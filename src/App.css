@@ -1,8 +1,30 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  width: 100vw; /* 100% del ancho de la ventana */
+  height: 100vh; /* 100% del alto de la ventana */
+  margin: 0; /* Elimina márgenes */
+  padding: 0; /* Elimina padding */
+  display: flex; /* Opcional: para centrar contenido */
+  flex-direction: column; /* Opcional: organiza elementos en columna */
+  justify-content: center; /* Opcional: centra verticalmente */
+  align-items: center; /* Opcional: centra horizontalmente */
   text-align: center;
+}
+
+.start-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .logo {
